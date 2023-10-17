@@ -1,0 +1,28 @@
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color: yellow;
+}
+
+#main {
+    font-style: italic;
+}
+
+.column {
+    width: 300px;
+    float: left;
+}
+
+.Dude {
+    margin: auto;
+    width: 50%;
+    height: auto;
+    display: block;
+}
+
+.border {
+    margin: 12px;
+    border: 2px solid green;
+    padding: 4px;
+    background-color: orange;
+}
